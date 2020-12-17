@@ -202,17 +202,6 @@
                 })
                 .Build();
 
-            /*
-             * you have found the brokers ip address, do you have the applicant password?
-             * 
-                 _  ___   _  ___ _____ _  ___   __    _ _ ____  
-                / |( _ ) / |/ _ \___  / |( _ ) / /_  / / |___ \ 
-                | |/ _ \ | | (_) | / /| |/ _ \| '_ \ | | | __) |
-                | | (_) || |\__, |/ /_| | (_) | (_) || | |/ __/ 
-                |_|\___(_)_|  /_//_/(_)_|\___/ \___(_)_|_|_____|
-            *
-            */
-
             var mqttServer = new MqttFactory().CreateMqttServer();
             mqttServer.StartAsync(optionsBuilder);
 
