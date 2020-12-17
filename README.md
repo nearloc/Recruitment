@@ -1,5 +1,16 @@
-nearloc'un işe alım sürecinde kullandığı yazılımın kaynak kodlarının bulunduğu github reposuna hoş geldiniz. 
-Buradan elde edeceğiniz bilgiler ile yazılım uzmanı pozisyonu için başvurunuzu gerçekleştirebilirsiniz.
+Full-stack yazılım uzmanı pozisyonuna başvuruları kabul etmek için hazırladığımız MQTT Broker projesinin kaynak kodlarına bu repodan erişebilirsiniz. Yazılım şu anda public bir sunucuda koşmakta.
+
+Başvuru yapabilmek için;
+
++ Server'ın ip ve port bilgisine ihtiyacınız olacak.
++ Başvuru yapmaya yetkili kullanıcı adı ve şifresine ihtiyacınız olacak.
++ Başvuru yapmak için publish edilmesi gereken mesajı oluşturmanız gerekecek
++ Başvuru mesajını publish etmeniz gereken topic'i bilmeniz gerekecek
+
+Gerekli olan bütün bilgilere bu repoyu inceleyerek ulaşabilirsiniz.
+Başvuru için bir mqtt client geliştirmeniz beklenmemektedir, başvurunuzu [MQTT.fx](https://mqttfx.jensd.de/) vs. gibi bir client uygulaması ile hızlıca yapabilirsiniz.
+
+Başarılı başvuru sonucunda, email adresinize başvurunuzun alındığına dair mail gelmesi gerekmektedir. (spam klasörünüzü de kontrol etmeniz gerekebilir)
 
 ---
 
