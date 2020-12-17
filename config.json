@@ -1,0 +1,28 @@
+﻿{
+  "IpHourLimit": 1,
+  "ApplicationsDirectory": "applicants",
+  "ApplicationsJsonFile": "applicants/applicants.json",
+  "IpListJsonFile": "applicants/ipList.json",  
+  "MqttPort": 1883,
+  "Users": [
+    {
+      "Name": "applicant",
+      "Hash": "fbfb386efea67e816f2dda0a8c94a98eb203757aebb3f55f183755a192d44467",
+      "IsAdmin": false
+    },
+    {
+      "Name": "admin",
+      "Hash": "975eb99da90bedca12ba49dd0acebe114162ff2b857bd22ba124860fceaf1adf",
+      "IsAdmin": true
+    }
+  ],
+  "MailConfig": {
+    "SenderMailAccount": "sinan.taviloglu@nearloc.com",
+    "Password": "duuhtvnfouwbtkqt",
+    "SenderDisplayName": "Sinan Taviloğlu",
+    "Host": "smtp.yandex.com.tr",
+    "Port": 587,
+    "TemplatePath": "EmailTemplate.txt",
+    "Subject": "Thank you for your application at nearloc"
+  }
+}

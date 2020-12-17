@@ -1,0 +1,17 @@
+﻿Hi {FullName},
+
+Thank you for applying for the software developer position at nearloc.
+
+I’d like to let you know that we have received your application. 
+
+If you are selected for an interview, you will receive an email from me to schedule an interview.
+
+Thanks again for your interest in working at nearloc.
+
+Resume: {LinkToResume}
+Phone: {Phone}
+
+Regards,
+
+Sinan Taviloğlu
+

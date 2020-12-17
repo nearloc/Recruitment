@@ -1,0 +1,25 @@
+{
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "FullName": {
+      "type": "string",
+      "required": true
+    },
+    "LinkToResume": {
+      "type": "string",
+      "required": true
+    },
+    "Email": {
+      "type": "string",
+      "format": "email",
+      "required": true
+    },
+    "Phone": {
+      "type": "string",
+      "minLength": 10,
+      "maxLength": 10,
+      "required": true
+    }
+  }
+}
