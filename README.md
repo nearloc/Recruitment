@@ -7,7 +7,7 @@ Başvuru yapabilmek için;
 + Başvuru yapmak için publish edilmesi gereken mesajı oluşturmanız gerekecek
 + Başvuru mesajını publish etmeniz gereken topic'i bilmeniz gerekecek
 
-Gerekli olan bütün bilgilere bu repoyu inceleyerek ulaşabilirsiniz.
+Gerekli olan bütün bilgilere bu **repoyu inceleyerek** ulaşabilirsiniz.
 Başvuru için bir mqtt client geliştirmeniz beklenmemektedir, başvurunuzu [MQTT.fx](https://mqttfx.jensd.de/) vs. gibi bir client uygulaması ile hızlıca yapabilirsiniz.
 
 Başarılı başvuru sonucunda, email adresinize başvurunuzun alındığına dair mail gelmesi gerekmektedir. (spam klasörünüzü de kontrol etmeniz gerekebilir)
@@ -18,7 +18,6 @@ Endüstriyel IoT alanında donanım ve yazılım çözümleri geliştiren ekibim
 
 Adayın;
 
-+ Mühendislik alanında lisans derecesi olması,
 + Teknik dokümanları takip edebilecek seviyede ingilizce bilgisine sahip olması,
 + C# programlama dili ile 2+ yıl profesyonel yazılım geliştirme deneyimi olması,
 + SQL ve/veya NoSQL veritabanları ile proje geliştirme deneyimi olması,
