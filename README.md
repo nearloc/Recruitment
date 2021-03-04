@@ -21,10 +21,7 @@ Endüstriyel IoT alanında donanım ve yazılım çözümleri geliştiren ekibim
 Adayın;
 
 + Teknik dokümanları takip edebilecek seviyede ingilizce bilgisine sahip olması,
-+ C# programlama dili ile en az 1 yıl profesyonel yazılım geliştirme deneyimi olması,
-+ SQL ve/veya NoSQL veritabanları ile proje geliştirme deneyimi olması,
-+ ***Tercihen** windows uygulaması ve/veya windows servis geliştirme deneyimi olması,*
-+ ***Tercihen** TCP/IP socket programlama, pub-sub patterns, containerization gibi konularda tecrübesi olması*
++ C# ile ASP.NET Core ve EF Core kullanarak herhangi bir SQL/NoSQL database ile backend geliştirilmesi, HTML, CSS, JavaScript/TypeScript ve herhangi bir SPA framework kullanarak frontend geliştirilmesi, konularında profesyonel deneyimi olması,
 + *Erkek ise; askerlik görevini tamamlamış veya en az iki sene muaf olması*
 
 beklenmektedir.
